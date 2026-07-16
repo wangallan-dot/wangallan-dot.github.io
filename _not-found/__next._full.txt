@@ -13,4 +13,4 @@ d:[]
 9:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 e:I[27201,["/_next/static/chunks/0dbhjjzl8qfwv.js"],"IconMark"]
 6:null
-b:[["$","title","0",{"children":"Starter Project"}],["$","meta","1",{"name":"description","content":"A clean starting point for building your site."}],["$","meta","2",{"name":"codex-preview","content":"development"}],["$","link","3",{"rel":"shortcut icon","href":"/favicon.svg"}],["$","link","4",{"rel":"icon","href":"/favicon.svg"}],["$","$Le","5",{}]]
+b:[["$","title","0",{"children":"Canvasly — 在线协作设计工具"}],["$","meta","1",{"name":"description","content":"面向专业创作的在线画布与协作设计工具。"}],["$","meta","2",{"name":"codex-preview","content":"development"}],["$","link","3",{"rel":"shortcut icon","href":"/favicon.svg"}],["$","link","4",{"rel":"icon","href":"/favicon.svg"}],["$","$Le","5",{}]]
